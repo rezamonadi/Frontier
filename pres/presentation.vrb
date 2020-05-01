@@ -1,0 +1,15 @@
+\frametitle{Fragile}
+Some environments are fragile in frames.  For that, use
+the optional argument \texttt{[fragile]}.
+\pause
+\begin{verbatim}
+\begin{frame}[fragile]
+\frametitle{Fragile}
+Some environments are fragile in frames.  For that, use
+the optional argument \texttt{[fragile]}.
+\begin{verbatim}
+\begin{frame}[fragile]
+\frametitle{Fragile}
+Some environments are fragile in frames.  For that, use
+the optional argument \texttt{[fragile]}.
+\end{verbatim}
