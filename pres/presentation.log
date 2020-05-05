@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  1 MAY 2020 00:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  5 MAY 2020 05:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -827,42 +827,153 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./presentation.nav) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+) (./presentation.nav)
+Overfull \vbox (0.63347pt too high) detected at line 14
+ []
+
+
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-<ml.jpg, id=113, 1927.2pt x 1084.05pt>
-File: ml.jpg Graphic file (type jpg)
-<use ml.jpg>
-Package pdftex.def Info: ml.jpg  used on input line 22.
-(pdftex.def)             Requested size: 303.47679pt x 170.71652pt.
- [2
+<ml2.jpeg, id=128, 1284.8pt x 722.7pt>
+File: ml2.jpeg Graphic file (type jpg)
+<use ml2.jpeg>
+Package pdftex.def Info: ml2.jpeg  used on input line 22.
+(pdftex.def)             Requested size: 303.4964pt x 170.71652pt.
 
- <./ml.jpg>] [3
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
-] [4
 
-] [5
+[2
 
-] [6
+ <./ml2.jpeg>]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
-] [7
 
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
+[3
 
 ]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[4
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[5
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[6
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[7
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[8
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[9
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[10
+
+]
+<vvv.png, id=427, 301.125pt x 202.356pt>
+File: vvv.png Graphic file (type png)
+<use vvv.png>
+Package pdftex.def Info: vvv.png  used on input line 43.
+(pdftex.def)             Requested size: 254.0552pt x 170.71652pt.
+
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[11
+
+ <./vvv.png>]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[12
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
 [13
 
-] [14
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
 
-] [15
+
+[14
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[15
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[16
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[17
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[18
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[19
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[20
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[21
+
+]
+Overfull \vbox (0.63347pt too high) has occurred while \output is active []
+
+
+[22
 
 ]
 \tf@nav=\write6
@@ -874,30 +985,30 @@ Package pdftex.def Info: ml.jpg  used on input line 22.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 57.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 57.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 57.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 43BB0836B7CE7C24380618A9D27B0EE3;630.
+(rerunfilecheck)             Checksum: 9B76802309501564D282D92E54C7589E;859.
  ) 
 Here is how much of TeX's memory you used:
- 16996 strings out of 492982
- 323539 string characters out of 6134896
- 393636 words of memory out of 5000000
- 20153 multiletter control sequences out of 15000+600000
+ 17036 strings out of 492982
+ 323951 string characters out of 6134896
+ 394640 words of memory out of 5000000
+ 20174 multiletter control sequences out of 15000+600000
  5746 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,19n,57p,2411b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,19n,58p,2411b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on presentation.pdf (15 pages, 161406 bytes).
+Output written on presentation.pdf (22 pages, 293200 bytes).
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 562 compressed objects within 6 object streams
- 44 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 871 PDF objects out of 1000 (max. 8388607)
+ 817 compressed objects within 9 object streams
+ 61 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
