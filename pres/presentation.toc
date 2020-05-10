@@ -1,16 +1,16 @@
-\beamer@sectionintoc {1}{Questions to be addressed}{3}{0}{1}
-\beamer@sectionintoc {2}{ML overview}{7}{0}{2}
-\beamer@subsectionintoc {2}{1}{Supervised learning}{8}{0}{2}
-\beamer@subsectionintoc {2}{2}{Unsupervised learning}{38}{0}{2}
-\beamer@sectionintoc {3}{Big Data in astronomy}{43}{0}{3}
-\beamer@subsectionintoc {3}{1}{Big telescopes}{44}{0}{3}
-\beamer@subsectionintoc {3}{2}{Simulations}{46}{0}{3}
-\beamer@subsectionintoc {3}{3}{Surveys}{47}{0}{3}
-\beamer@sectionintoc {4}{ML applications in astronomy}{52}{0}{4}
-\beamer@subsectionintoc {4}{1}{a}{53}{0}{4}
-\beamer@subsectionintoc {4}{2}{b}{54}{0}{4}
-\beamer@subsectionintoc {4}{3}{a}{55}{0}{4}
-\beamer@subsectionintoc {4}{4}{b}{56}{0}{4}
-\beamer@sectionintoc {5}{ML limitations}{57}{0}{5}
-\beamer@subsectionintoc {5}{1}{a}{58}{0}{5}
-\beamer@subsectionintoc {5}{2}{b}{59}{0}{5}
+\beamer@sectionintoc {1}{Outline}{3}{0}{1}
+\beamer@sectionintoc {2}{ML overview}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Supervised learning}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Unsupervised learning}{32}{0}{2}
+\beamer@sectionintoc {3}{Big Data in astronomy}{37}{0}{3}
+\beamer@subsectionintoc {3}{1}{Definition of BIG DATA}{37}{0}{3}
+\beamer@subsectionintoc {3}{2}{Astronomical Surveys}{41}{0}{3}
+\beamer@sectionintoc {4}{Supervised ML in astronomy}{48}{0}{4}
+\beamer@subsectionintoc {4}{1}{Classification}{54}{0}{4}
+\beamer@subsectionintoc {4}{2}{Regression}{55}{0}{4}
+\beamer@subsectionintoc {4}{3}{Regression}{56}{0}{4}
+\beamer@subsectionintoc {4}{4}{a}{57}{0}{4}
+\beamer@subsectionintoc {4}{5}{b}{58}{0}{4}
+\beamer@sectionintoc {5}{ML limitations}{59}{0}{5}
+\beamer@subsectionintoc {5}{1}{a}{60}{0}{5}
+\beamer@subsectionintoc {5}{2}{b}{61}{0}{5}
