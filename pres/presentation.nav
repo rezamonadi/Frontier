@@ -9,90 +9,112 @@
 \headcommand {\beamer@framepages {3}{7}}
 \headcommand {\beamer@sectionpages {3}{7}}
 \headcommand {\beamer@subsectionpages {3}{7}}
-\headcommand {\sectionentry {2}{ML overview}{8}{ML overview}{0}}
-\headcommand {\slideentry {2}{0}{1}{8/8}{}{0}}
+\headcommand {\sectionentry {2}{Big Data}{8}{Big Data}{0}}
+\headcommand {\beamer@subsectionpages {8}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{8}{Definition of BIG DATA}}
+\headcommand {\slideentry {2}{1}{1}{8/8}{Definition of BIG DATA}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\slideentry {2}{0}{2}{9/9}{}{0}}
-\headcommand {\beamer@framepages {9}{9}}
-\headcommand {\beamer@subsectionpages {8}{9}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{10}{Supervised learning}}
-\headcommand {\slideentry {2}{1}{1}{10/10}{Supervised learning}{0}}
-\headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {2}{1}{2}{11/20}{Supervised learning}{0}}
-\headcommand {\beamer@framepages {11}{20}}
-\headcommand {\slideentry {2}{1}{3}{21/31}{Supervised learning}{0}}
-\headcommand {\beamer@framepages {21}{31}}
-\headcommand {\beamer@subsectionpages {10}{31}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{32}{Unsupervised learning}}
-\headcommand {\slideentry {2}{2}{1}{32/32}{Unsupervised learning}{0}}
+\headcommand {\slideentry {2}{1}{2}{9/11}{Definition of BIG DATA}{0}}
+\headcommand {\beamer@framepages {9}{11}}
+\headcommand {\beamer@subsectionpages {8}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{12}{Astronomical Surveys}}
+\headcommand {\slideentry {2}{2}{1}{12/12}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{2}{2}{13/13}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{2}{3}{14/14}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {2}{2}{4}{15/15}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{2}{5}{16/19}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {16}{19}}
+\headcommand {\slideentry {2}{2}{6}{20/20}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {2}{2}{7}{21/21}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {2}{2}{8}{22/22}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {2}{2}{9}{23/24}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {23}{24}}
+\headcommand {\slideentry {2}{2}{10}{25/25}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {2}{2}{11}{26/30}{Astronomical Surveys}{0}}
+\headcommand {\beamer@framepages {26}{30}}
+\headcommand {\beamer@sectionpages {8}{30}}
+\headcommand {\beamer@subsectionpages {12}{30}}
+\headcommand {\sectionentry {3}{ML Algorithms}{31}{ML Algorithms}{0}}
+\headcommand {\beamer@subsectionpages {31}{30}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{31}{Overview}}
+\headcommand {\slideentry {3}{1}{1}{31/31}{Overview}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {3}{1}{2}{32/32}{Overview}{0}}
 \headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {2}{2}{2}{33/36}{Unsupervised learning}{0}}
-\headcommand {\beamer@framepages {33}{36}}
-\headcommand {\beamer@sectionpages {8}{36}}
-\headcommand {\beamer@subsectionpages {32}{36}}
-\headcommand {\sectionentry {3}{Big Data in astronomy}{37}{Big Data in astronomy}{0}}
-\headcommand {\beamer@subsectionpages {37}{36}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{37}{Definition of BIG DATA}}
-\headcommand {\slideentry {3}{1}{1}{37/37}{Definition of BIG DATA}{0}}
-\headcommand {\beamer@framepages {37}{37}}
-\headcommand {\slideentry {3}{1}{2}{38/40}{Definition of BIG DATA}{0}}
-\headcommand {\beamer@framepages {38}{40}}
-\headcommand {\beamer@subsectionpages {37}{40}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{41}{Astronomical Surveys}}
-\headcommand {\slideentry {3}{2}{1}{41/41}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {41}{41}}
-\headcommand {\slideentry {3}{2}{2}{42/42}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {3}{2}{3}{43/43}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\slideentry {3}{2}{4}{44/44}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {44}{44}}
-\headcommand {\slideentry {3}{2}{5}{45/45}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {45}{45}}
-\headcommand {\slideentry {3}{2}{6}{46/46}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {46}{46}}
-\headcommand {\slideentry {3}{2}{7}{47/47}{Astronomical Surveys}{0}}
-\headcommand {\beamer@framepages {47}{47}}
-\headcommand {\beamer@sectionpages {37}{47}}
-\headcommand {\beamer@subsectionpages {41}{47}}
-\headcommand {\sectionentry {4}{Supervised ML in astronomy}{48}{Supervised ML in astronomy}{0}}
-\headcommand {\slideentry {4}{0}{1}{48/53}{}{0}}
-\headcommand {\beamer@framepages {48}{53}}
-\headcommand {\beamer@subsectionpages {48}{53}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{54}{Classification}}
-\headcommand {\slideentry {4}{1}{1}{54/54}{Classification}{0}}
-\headcommand {\beamer@framepages {54}{54}}
-\headcommand {\beamer@subsectionpages {54}{54}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{55}{Regression}}
-\headcommand {\slideentry {4}{2}{1}{55/55}{Regression}{0}}
-\headcommand {\beamer@framepages {55}{55}}
-\headcommand {\beamer@subsectionpages {55}{55}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{56}{Regression}}
-\headcommand {\slideentry {4}{3}{1}{56/56}{Regression}{0}}
-\headcommand {\beamer@framepages {56}{56}}
-\headcommand {\beamer@subsectionpages {56}{56}}
-\headcommand {\beamer@subsectionentry {0}{4}{4}{57}{a}}
-\headcommand {\slideentry {4}{4}{1}{57/57}{a}{0}}
+\headcommand {\beamer@subsectionpages {31}{32}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{33}{Supervised learning}}
+\headcommand {\slideentry {3}{2}{1}{33/42}{Supervised learning}{0}}
+\headcommand {\beamer@framepages {33}{42}}
+\headcommand {\slideentry {3}{2}{2}{43/50}{Supervised learning}{0}}
+\headcommand {\beamer@framepages {43}{50}}
+\headcommand {\beamer@subsectionpages {33}{50}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{51}{Unsupervised learning}}
+\headcommand {\slideentry {3}{3}{1}{51/51}{Unsupervised learning}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {3}{3}{2}{52/56}{Unsupervised learning}{0}}
+\headcommand {\beamer@framepages {52}{56}}
+\headcommand {\beamer@sectionpages {31}{56}}
+\headcommand {\beamer@subsectionpages {51}{56}}
+\headcommand {\sectionentry {4}{Supervised ML in astronomy}{57}{Supervised ML in astronomy}{0}}
+\headcommand {\beamer@subsectionpages {57}{56}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{57}{Classification}}
+\headcommand {\slideentry {4}{1}{1}{57/57}{Classification}{0}}
 \headcommand {\beamer@framepages {57}{57}}
 \headcommand {\beamer@subsectionpages {57}{57}}
-\headcommand {\beamer@subsectionentry {0}{4}{5}{58}{b}}
-\headcommand {\slideentry {4}{5}{1}{58/58}{b}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{58}{Regression}}
+\headcommand {\slideentry {4}{2}{1}{58/58}{Regression}{0}}
 \headcommand {\beamer@framepages {58}{58}}
-\headcommand {\beamer@sectionpages {48}{58}}
 \headcommand {\beamer@subsectionpages {58}{58}}
-\headcommand {\sectionentry {5}{ML limitations}{59}{ML limitations}{0}}
-\headcommand {\slideentry {5}{0}{1}{59/59}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{59}{Neural Network}}
+\headcommand {\slideentry {4}{3}{1}{59/59}{Neural Network}{0}}
 \headcommand {\beamer@framepages {59}{59}}
-\headcommand {\beamer@subsectionpages {59}{59}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{60}{a}}
-\headcommand {\slideentry {5}{1}{1}{60/60}{a}{0}}
+\headcommand {\beamer@sectionpages {57}{59}}
+\headcommand {\beamer@subsectionpages {57}{59}}
+\headcommand {\sectionentry {5}{Unsupervised ML in astronomy}{60}{Unsupervised ML in astronomy}{0}}
+\headcommand {\beamer@subsectionpages {60}{59}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{60}{Clustering}}
+\headcommand {\slideentry {5}{1}{1}{60/60}{Clustering}{0}}
 \headcommand {\beamer@framepages {60}{60}}
 \headcommand {\beamer@subsectionpages {60}{60}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{61}{b}}
-\headcommand {\slideentry {5}{2}{1}{61/61}{b}{0}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{61}{outlier detection}}
+\headcommand {\slideentry {5}{2}{1}{61/61}{outlier detection}{0}}
 \headcommand {\beamer@framepages {61}{61}}
-\headcommand {\beamer@partpages {1}{61}}
 \headcommand {\beamer@subsectionpages {61}{61}}
-\headcommand {\beamer@sectionpages {59}{61}}
-\headcommand {\beamer@documentpages {61}}
-\headcommand {\gdef \inserttotalframenumber {28}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{62}{dimensionality reduction}}
+\headcommand {\slideentry {5}{3}{1}{62/62}{dimensionality reduction}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\beamer@subsectionpages {62}{62}}
+\headcommand {\beamer@subsectionentry {0}{5}{4}{63}{Neural network}}
+\headcommand {\slideentry {5}{4}{1}{63/63}{Neural network}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\beamer@sectionpages {60}{63}}
+\headcommand {\beamer@subsectionpages {60}{63}}
+\headcommand {\sectionentry {6}{ML and SKA}{64}{ML and SKA}{0}}
+\headcommand {\slideentry {6}{0}{1}{64/64}{}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\beamer@sectionpages {64}{64}}
+\headcommand {\beamer@subsectionpages {64}{64}}
+\headcommand {\sectionentry {7}{ML limitations}{65}{ML limitations}{0}}
+\headcommand {\slideentry {7}{0}{1}{65/65}{}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\beamer@subsectionpages {65}{65}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{66}{a}}
+\headcommand {\slideentry {7}{1}{1}{66/66}{a}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\beamer@subsectionpages {66}{66}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{67}{b}}
+\headcommand {\slideentry {7}{2}{1}{67/67}{b}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\beamer@partpages {1}{67}}
+\headcommand {\beamer@subsectionpages {65}{67}}
+\headcommand {\beamer@sectionpages {65}{67}}
+\headcommand {\beamer@documentpages {67}}
+\headcommand {\gdef \inserttotalframenumber {33}}
