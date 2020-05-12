@@ -1,8 +1,9 @@
 \documentclass{beamer}
 \mode<presentation>{\usetheme{Copenhagen}}
-
+\usepackage{graphicx}
 \usepackage[tikz]{bclogo}
 \usepackage{mathtools}
+\usepackage{media9}
 \presetkeys{bclogo}{
 	ombre=true,
 	epBord=3,
@@ -27,7 +28,7 @@
 	
 	\begin{frame}
 	\centering
-	\includegraphics[height=6cm, angle=0,origin=c]{ml.jpg}
+	\includegraphics[height=6cm]{ml.jpg}
 	\tiny{credit: 365datascience.com}
 	
 \end{frame}
@@ -37,8 +38,8 @@
 \frame{
 	\begin{itemize}
 		\uncover<1->{\item How astronomy is tied to \textbf{BIG DATA}?}
-		\uncover<2->{\item What is  \textbf{ML}?}
-		\uncover<3->{\item How to implement \textbf{ML} in astronomy? }
+		\uncover<2->{\item What is supervised and unsupervised \textbf{ML}?}
+		\uncover<3->{\item How to implement \textbf{ML} algorithms in astronomy? }
 		\uncover<4->{\item How \textbf{ML} helps \textbf{SKA}?}
 		\uncover<5->{\item What are the pitfalls of \textbf{ML} in astronomy?}
 	\end{itemize}
@@ -68,6 +69,9 @@
 	%\subsection{Simulations}\frame{}
 }
 \subsection{Astronomical Surveys}
+\frame{\huge 
+	\centering
+Astronomical surveys are really \textcolor{red}{Astronomical}.}
 \frame{
 	\frametitle{Sloan Digital Sky Server $\Rightarrow$ 40 TB}
 	\centering
@@ -233,7 +237,7 @@
 	\end{bclogo}}
 \uncover<3->{\begin{bclogo}{Differences}
 		\begin{itemize}
-				\uncover<4->{ \item SML: model gets adapted by data}
+				\uncover<4->{ \item SML: model is constructed based on input data}
 				\uncover<5->{\item SML: model can be very nonlinear/complex }
 				\uncover<6->{\item TMF: model is predefined and has limited adaptivity}
 				\uncover<7->{\item SML: designed for predicting unseen data}
@@ -283,12 +287,100 @@
 
 
 
-\section{Supervised ML in astronomy}{
+\section{Supervised ML in astronomy}
+\frame{ 
+	\begin{itemize}
+		\huge
+	\uncover<1->{	\item Classification}
+	\uncover<2->{	\item Regression}
+		
+	\end{itemize}}
 
-\subsection{Classification}\frame{}
-\subsection{Regression}\frame{}
-\subsection{Neural Network}\frame{}
+\subsection{Support Machine Vector }
+
+\frame{ 
+	\frametitle{How Support Vector Machine  Works?}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}
+	\includegraphics[height=6cm]{svm-2.png}
+	
 }
+
+\frame{ 
+	\frametitle{Hyper-plane in Support Vector Machine}
+\centering
+%\includemovie{1cm}{1cm}{svm1.gif}
+	 \includegraphics[height=6cm]{svm1-0.png}
+	
+}
+\frame{
+	\frametitle{ Classifying Pre-Main-Sequence Stars using SVM }
+	
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}
+	\includegraphics[height=5cm]{svm-paper}}
+
+\frame{
+	\frametitle{ Classifying Pre-Main-Sequence Stars using SVM }
+	
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}
+	\includegraphics[height=5cm]{svm-example}
+	} 
+\subsection{Decision Tree } 
+\frame{\frametitle{How Decision Tree works?}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}
+	\includegraphics[height=5cm]{DT-works}}
+
+
+\frame{\frametitle{Using DT for classifying galaxies and stars in SDSS?}
+	\centering
+
+	\includegraphics[height=5cm]{DT-paper}
+
+}
+
+\frame{\frametitle{Using DT for classifying galaxies and stars in SDSS?}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}
+	\includegraphics[height=5cm]{DT-example}
+	
+}
+
+\subsection{Neural Network}
+\frame{\frametitle{How Neural Network works?}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}	
+	\includegraphics[height=5cm]{NN-works-3}
+	
+}
+
+\frame{\frametitle{Convolutional Neural Network and DLAs}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}	
+	\includegraphics[height=5cm]{CNN-paper.png}
+	
+}
+
+\frame{\frametitle{Training  DLAs/no DLAs}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}	
+	\includegraphics[width=\linewidth]{DLA-train}
+	
+}
+
+\frame{\frametitle{Treating DLA as a 1D image}
+	\centering
+	%\includemovie{1cm}{1cm}{svm1.gif}	
+	\includegraphics[width=\linewidth]{1d_DLA}
+	
+}
+
+
+
+
+
 
 
 \section{Unsupervised ML in astronomy}{
@@ -300,8 +392,15 @@
 
 \section{ML and SKA}
 \frame{}
-\section{ML limitations}{ \frame{text}
-\subsection{a}\frame{}
-\subsection{b}\frame{}
+\section{ML limitations}{ 
+	\frame{
+		\begin{itemize}
+			\uncover<1->{\item ML algorithms are not designed for astronomy but mostly for business. }
+			\uncover<2->{\item Training on a biased sample is very dangerous }
+			\uncover<3->{\item ML is the best for how only cares about results}
+		\end{itemize}
+	
+}
+
 }
 \end{document}
