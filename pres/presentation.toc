@@ -1,19 +1,17 @@
-\beamer@sectionintoc {1}{Outline}{3}{0}{1}
-\beamer@sectionintoc {2}{Big Data}{8}{0}{2}
-\beamer@subsectionintoc {2}{1}{Definition of BIG DATA}{8}{0}{2}
-\beamer@subsectionintoc {2}{2}{Astronomical Surveys}{12}{0}{2}
-\beamer@sectionintoc {3}{ML Algorithms}{32}{0}{3}
-\beamer@subsectionintoc {3}{1}{Overview}{32}{0}{3}
-\beamer@subsectionintoc {3}{2}{Supervised learning}{34}{0}{3}
-\beamer@subsectionintoc {3}{3}{Unsupervised learning}{52}{0}{3}
-\beamer@sectionintoc {4}{Supervised ML in astronomy}{58}{0}{4}
-\beamer@subsectionintoc {4}{1}{Support Machine Vector }{60}{0}{4}
-\beamer@subsectionintoc {4}{2}{Decision Tree }{64}{0}{4}
-\beamer@subsectionintoc {4}{3}{Neural Network}{67}{0}{4}
-\beamer@sectionintoc {5}{Unsupervised ML in astronomy}{71}{0}{5}
-\beamer@subsectionintoc {5}{1}{Clustering}{71}{0}{5}
-\beamer@subsectionintoc {5}{2}{outlier detection}{72}{0}{5}
-\beamer@subsectionintoc {5}{3}{dimensionality reduction}{73}{0}{5}
-\beamer@subsectionintoc {5}{4}{Neural network}{74}{0}{5}
-\beamer@sectionintoc {6}{ML and SKA}{75}{0}{6}
-\beamer@sectionintoc {7}{ML limitations}{76}{0}{7}
+\beamer@sectionintoc {1}{Overview}{2}{0}{1}
+\beamer@sectionintoc {2}{Big Data }{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Definition of BIG DATA}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Astronomical Surveys}{9}{0}{2}
+\beamer@sectionintoc {3}{Supervised ML}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Overview}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Support Machine Vector }{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{Decision Tree }{23}{0}{3}
+\beamer@subsectionintoc {3}{4}{Neural Network}{26}{0}{3}
+\beamer@sectionintoc {4}{Unsupervised ML}{30}{0}{4}
+\beamer@subsectionintoc {4}{1}{Overview}{30}{0}{4}
+\beamer@subsectionintoc {4}{2}{Agglomerative clustering}{34}{0}{4}
+\beamer@subsectionintoc {4}{3}{LOF }{38}{0}{4}
+\beamer@subsectionintoc {4}{4}{PCA}{39}{0}{4}
+\beamer@subsectionintoc {4}{5}{tSNE}{40}{0}{4}
+\beamer@sectionintoc {5}{ML limitations }{41}{0}{5}
+\beamer@sectionintoc {6}{References}{47}{0}{6}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  12 MAY 2020 02:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  13 MAY 2020 02:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -644,11 +644,12 @@ Package: amsthm 2017/10/31 v2.20.4
 \beamer@dimb=\dimen189
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeCopenhagen.sty
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesplit.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMarburg.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty)
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesidebar.sty
+\beamer@sidebarwidth=\dimen190
+\beamer@headheight=\dimen191
+))
 (/usr/share/texlive/texmf-dist/tex/latex/bclogo/bclogo.sty
 Package: bclogo 2016/01/10 v3.1
 
@@ -684,8 +685,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen190
-\pgf@nodesepend=\dimen191
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
@@ -699,8 +700,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen192
-\pgffor@skip=\dimen193
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
 \pgffor@stack=\toks45
 \pgffor@toks=\toks46
 ))
@@ -711,14 +712,14 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 .code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count155
-\pgfplotmarksize=\dimen194
+\pgfplotmarksize=\dimen196
 )
-\tikz@lastx=\dimen195
-\tikz@lasty=\dimen196
-\tikz@lastxsaved=\dimen197
-\tikz@lastysaved=\dimen198
-\tikzleveldistance=\dimen199
-\tikzsiblingdistance=\dimen256
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
 \tikz@figbox=\box54
 \tikz@figbox@bg=\box55
 \tikz@tempbox=\box56
@@ -761,12 +762,12 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__iow_line_target_int=\count173
 \l__iow_one_indent_int=\count174
 \l__iow_indent_int=\count175
-\c_zero_dim=\dimen257
-\c_max_dim=\dimen258
-\l_tmpa_dim=\dimen259
-\l_tmpb_dim=\dimen260
-\g_tmpa_dim=\dimen261
-\g_tmpb_dim=\dimen262
+\c_zero_dim=\dimen259
+\c_max_dim=\dimen260
+\l_tmpa_dim=\dimen261
+\l_tmpb_dim=\dimen262
+\g_tmpa_dim=\dimen263
+\g_tmpb_dim=\dimen264
 \c_zero_skip=\skip61
 \c_max_skip=\skip62
 \l_tmpa_skip=\skip63
@@ -855,23 +856,23 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l_tmpb_box=\box60
 \g_tmpa_box=\box61
 \g_tmpb_box=\box62
-\l__box_top_dim=\dimen263
-\l__box_bottom_dim=\dimen264
-\l__box_left_dim=\dimen265
-\l__box_right_dim=\dimen266
-\l__box_top_new_dim=\dimen267
-\l__box_bottom_new_dim=\dimen268
-\l__box_left_new_dim=\dimen269
-\l__box_right_new_dim=\dimen270
+\l__box_top_dim=\dimen265
+\l__box_bottom_dim=\dimen266
+\l__box_left_dim=\dimen267
+\l__box_right_dim=\dimen268
+\l__box_top_new_dim=\dimen269
+\l__box_bottom_new_dim=\dimen270
+\l__box_left_new_dim=\dimen271
+\l__box_right_new_dim=\dimen272
 \l__box_internal_box=\box63
 \l__coffin_internal_box=\box64
-\l__coffin_internal_dim=\dimen271
-\l__coffin_offset_x_dim=\dimen272
-\l__coffin_offset_y_dim=\dimen273
-\l__coffin_x_dim=\dimen274
-\l__coffin_y_dim=\dimen275
-\l__coffin_x_prime_dim=\dimen276
-\l__coffin_y_prime_dim=\dimen277
+\l__coffin_internal_dim=\dimen273
+\l__coffin_offset_x_dim=\dimen274
+\l__coffin_offset_y_dim=\dimen275
+\l__coffin_x_dim=\dimen276
+\l__coffin_y_dim=\dimen277
+\l__coffin_x_prime_dim=\dimen278
+\l__coffin_y_prime_dim=\dimen279
 \c_empty_coffin=\box65
 \l__coffin_aligned_coffin=\box66
 \l__coffin_aligned_internal_coffin=\box67
@@ -880,16 +881,16 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__coffin_display_coffin=\box70
 \l__coffin_display_coord_coffin=\box71
 \l__coffin_display_pole_coffin=\box72
-\l__coffin_display_offset_dim=\dimen278
-\l__coffin_display_x_dim=\dimen279
-\l__coffin_display_y_dim=\dimen280
-\l__coffin_bounding_shift_dim=\dimen281
-\l__coffin_left_corner_dim=\dimen282
-\l__coffin_right_corner_dim=\dimen283
-\l__coffin_bottom_corner_dim=\dimen284
-\l__coffin_top_corner_dim=\dimen285
-\l__coffin_scaled_total_height_dim=\dimen286
-\l__coffin_scaled_width_dim=\dimen287
+\l__coffin_display_offset_dim=\dimen280
+\l__coffin_display_x_dim=\dimen281
+\l__coffin_display_y_dim=\dimen282
+\l__coffin_bounding_shift_dim=\dimen283
+\l__coffin_left_corner_dim=\dimen284
+\l__coffin_right_corner_dim=\dimen285
+\l__coffin_bottom_corner_dim=\dimen286
+\l__coffin_top_corner_dim=\dimen287
+\l__coffin_scaled_total_height_dim=\dimen288
+\l__coffin_scaled_width_dim=\dimen289
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
@@ -1035,14 +1036,14 @@ zlibrarydecorations.pathmorphing.code.tex
 zlibrarydecorations.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.cod
 e.tex
-\pgfdecoratedcompleteddistance=\dimen288
-\pgfdecoratedremainingdistance=\dimen289
-\pgfdecoratedinputsegmentcompleteddistance=\dimen290
-\pgfdecoratedinputsegmentremainingdistance=\dimen291
-\pgf@decorate@distancetomove=\dimen292
+\pgfdecoratedcompleteddistance=\dimen290
+\pgfdecoratedremainingdistance=\dimen291
+\pgfdecoratedinputsegmentcompleteddistance=\dimen292
+\pgfdecoratedinputsegmentremainingdistance=\dimen293
+\pgf@decorate@distancetomove=\dimen294
 \pgf@decorate@repeatstate=\count326
-\pgfdecorationsegmentamplitude=\dimen293
-\pgfdecorationsegmentlength=\dimen294
+\pgfdecorationsegmentamplitude=\dimen295
+\pgfdecorationsegmentlength=\dimen296
 )
 \tikz@lib@dec@box=\box79
 )
@@ -1064,8 +1065,8 @@ Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count328
 \calc@Bcount=\count329
-\calc@Adimen=\dimen295
-\calc@Bdimen=\dimen296
+\calc@Adimen=\dimen297
+\calc@Bdimen=\dimen298
 \calc@Askip=\skip140
 \calc@Bskip=\skip141
 LaTeX Info: Redefining \setlength on input line 80.
@@ -1081,14 +1082,14 @@ LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 \g_MT_multlinerow_int=\count331
-\l_MT_multwidth_dim=\dimen297
+\l_MT_multwidth_dim=\dimen299
 \origjot=\skip143
-\l_MT_shortvdotswithinadjustabove_dim=\dimen298
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen299
-\l_MT_above_intertext_sep=\dimen300
-\l_MT_below_intertext_sep=\dimen301
-\l_MT_above_shortintertext_sep=\dimen302
-\l_MT_below_shortintertext_sep=\dimen303
+\l_MT_shortvdotswithinadjustabove_dim=\dimen300
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen301
+\l_MT_above_intertext_sep=\dimen302
+\l_MT_below_intertext_sep=\dimen303
+\l_MT_above_shortintertext_sep=\dimen304
+\l_MT_below_shortintertext_sep=\dimen305
 )
 (/usr/share/texlive/texmf-dist/tex/latex/media9/media9.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
@@ -1108,9 +1109,9 @@ Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
 \g_ocgbase_nd_int=\count335
 )
 \l_mix_poster_box=\box81
-\g_mix_wd_dim=\dimen304
-\g_mix_ht_dim=\dimen305
-\g_mix_dp_dim=\dimen306
+\g_mix_wd_dim=\dimen306
+\g_mix_ht_dim=\dimen307
+\g_mix_dp_dim=\dimen308
 \g_mix_rmcnt_int=\count336
 \l_mix_viewcnt_int=\count337
 \g@mix@page@int=\count338
@@ -1122,7 +1123,7 @@ Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
 . Defining command \addmediapath with sig. 'm' on line 804.
 .................................................
 \l_mix_pbtn_box=\box82
-\mix@btn@dim=\dimen307
+\mix@btn@dim=\dimen309
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1138,20 +1139,20 @@ Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
 (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1161,14 +1162,14 @@ LaTeX Font Info:    ... okay on input line 25.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(14.22636pt, 278.83713pt, 71.13187pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=278.83713pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1190,13 +1191,13 @@ LaTeX Font Info:    ... okay on input line 25.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count342
-\scratchdimen=\dimen308
+\scratchdimen=\dimen310
 \scratchbox=\box83
 \nofMPsegments=\count343
 \nofMParguments=\count344
 \everyMPshowfont=\toks47
 \MPscratchCnt=\count345
-\MPscratchDim=\dimen309
+\MPscratchDim=\dimen311
 \MPnumerator=\count346
 \makeMPintoPDFobject=\count347
 \everyMPtoPDFconversion=\toks48
@@ -1219,7 +1220,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box84
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1229,66 +1230,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count348
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 25.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 25.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 26.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 25.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 25.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 25.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 26.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 25.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 25.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 26.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 26.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
-5.
+6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-25.
+26.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 25.
+ut line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1313,796 +1314,422 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./presentation.nav)
-Overfull \vbox (1.1335pt too high) detected at line 25
- []
-
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+) (./presentation.nav) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-<ml.jpg, id=167, 1927.2pt x 1084.05pt>
-File: ml.jpg Graphic file (type jpg)
-<use ml.jpg>
-Package pdftex.def Info: ml.jpg  used on input line 34.
-(pdftex.def)             Requested size: 303.47679pt x 170.71652pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[2
-
- <./ml.jpg>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[3
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[4
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[5
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[6
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[7
-
-]
-<vvv.png, id=370, 301.125pt x 202.356pt>
-File: vvv.png Graphic file (type png)
-<use vvv.png>
-Package pdftex.def Info: vvv.png  used on input line 53.
-(pdftex.def)             Requested size: 254.0552pt x 170.71652pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[8
-
- <./vvv.png>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[9
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[10
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[11
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[12
-
-]
-<sdss-tel.jpeg, id=552, 3011.25pt x 2409.0pt>
-File: sdss-tel.jpeg Graphic file (type jpg)
-<use sdss-tel.jpeg>
-Package pdftex.def Info: sdss-tel.jpeg  used on input line 79.
-(pdftex.def)             Requested size: 213.38213pt x 170.71652pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 79.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 79.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 79.
+line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+[2
+
+] [3
+
+] [4
+
+] [5
+
+]
+<vvv.png, id=348, 301.125pt x 202.356pt>
+File: vvv.png Graphic file (type png)
+<use vvv.png>
+Package pdftex.def Info: vvv.png  used on input line 62.
+(pdftex.def)             Requested size: 127.023pt x 85.35826pt.
+ [6
+
+ <./vvv.png>]
+File: vvv.png Graphic file (type png)
+<use vvv.png>
+Package pdftex.def Info: vvv.png  used on input line 62.
+(pdftex.def)             Requested size: 127.023pt x 85.35826pt.
+ [7
+
+]
+File: vvv.png Graphic file (type png)
+<use vvv.png>
+Package pdftex.def Info: vvv.png  used on input line 62.
+(pdftex.def)             Requested size: 127.023pt x 85.35826pt.
+ [8
+
+]
+
+Package hyperref Warning: Ignoring empty anchor on input line 168.
 
 
-[13
+Overfull \hbox (1.07645pt too wide) in paragraph at lines 168--168
+ [] 
+ []
 
- <./sdss-tel.jpeg>]
-<sdss-imaging-stat.png, id=590, 1421.31pt x 772.8875pt>
-File: sdss-imaging-stat.png Graphic file (type png)
-<use sdss-imaging-stat.png>
-Package pdftex.def Info: sdss-imaging-stat.png  used on input line 84.
-(pdftex.def)             Requested size: 307.28987pt x 167.09924pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[14
-
- <./sdss-imaging-stat.png>]
-<sdss-spec-stat.png, id=628, 1421.31pt x 640.3925pt>
-File: sdss-spec-stat.png Graphic file (type png)
-<use sdss-spec-stat.png>
-Package pdftex.def Info: sdss-spec-stat.png  used on input line 89.
-(pdftex.def)             Requested size: 307.28987pt x 138.45366pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[15
-
- <./sdss-spec-stat.png>]
-<lsst.jpg, id=665, 1284.8pt x 722.7pt>
+<ska.jpg, id=481, 2788.4175pt x 1254.6875pt>
+File: ska.jpg Graphic file (type jpg)
+<use ska.jpg>
+Package pdftex.def Info: ska.jpg  used on input line 168.
+(pdftex.def)             Requested size: 94.83897pt x 42.67912pt.
+<DESI_2.jpg, id=482, 1606.0pt x 1204.5pt>
+File: DESI_2.jpg Graphic file (type jpg)
+<use DESI_2.jpg>
+Package pdftex.def Info: DESI_2.jpg  used on input line 168.
+(pdftex.def)             Requested size: 56.90189pt x 42.67912pt.
+<ztf_installed.jpg, id=483, 41.9204pt x 27.78886pt>
+File: ztf_installed.jpg Graphic file (type jpg)
+<use ztf_installed.jpg>
+Package pdftex.def Info: ztf_installed.jpg  used on input line 168.
+(pdftex.def)             Requested size: 56.9055pt x 37.72447pt.
+<lsst.jpg, id=484, 1284.8pt x 722.7pt>
 File: lsst.jpg Graphic file (type jpg)
 <use lsst.jpg>
-Package pdftex.def Info: lsst.jpg  used on input line 92.
-(pdftex.def)             Requested size: 303.4964pt x 170.71652pt.
+Package pdftex.def Info: lsst.jpg  used on input line 168.
+(pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
+[9
 
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+ <./ska.jpg> <./DESI_2.jpg> <./ztf_installed.jpg> <./lsst.jpg>]
+<example-supervised.png, id=528, 602.25pt x 301.125pt>
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+<tvt.png, id=529, 778.91pt x 185.69376pt>
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [10
 
+ <./example-supervised.png> <./tvt.png (PNG copy)>]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [11
 
-[16
+]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [12
 
- <./lsst.jpg>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [13
 
+]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [14
+
+]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [15
+
+]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [16
+
+]
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
 
 [17
 
 ]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[18
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[19
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[20
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [18
 
 ]
-<ztf_installed.jpg, id=844, 41.9204pt x 27.78886pt>
-File: ztf_installed.jpg Graphic file (type jpg)
-<use ztf_installed.jpg>
-Package pdftex.def Info: ztf_installed.jpg  used on input line 105.
-(pdftex.def)             Requested size: 257.60089pt x 170.71652pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[21
-
- <./ztf_installed.jpg>]
-<ztf-stat.png, id=880, 892.33376pt x 307.1475pt>
-File: ztf-stat.png Graphic file (type png)
-<use ztf-stat.png>
-Package pdftex.def Info: ztf-stat.png  used on input line 111.
-(pdftex.def)             Requested size: 307.28987pt x 105.76915pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[22
-
- <./ztf-stat.png>]
-<DESI_2.jpg, id=917, 1606.0pt x 1204.5pt>
-File: DESI_2.jpg Graphic file (type jpg)
-<use DESI_2.jpg>
-Package pdftex.def Info: DESI_2.jpg  used on input line 119.
-(pdftex.def)             Requested size: 172.59262pt x 129.46011pt.
-<Desi.png, id=918, 874.26625pt x 874.26625pt>
-File: Desi.png Graphic file (type png)
-<use Desi.png>
-Package pdftex.def Info: Desi.png  used on input line 119.
-(pdftex.def)             Requested size: 129.4534pt x 129.46011pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[23
-
- <./DESI_2.jpg> <./Desi.png>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[24
+File: example-supervised.png Graphic file (type png)
+<use example-supervised.png>
+Package pdftex.def Info: example-supervised.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
+File: tvt.png Graphic file (type png)
+<use tvt.png>
+Package pdftex.def Info: tvt.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ [19
 
 ]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+<svm-2.png, id=967, 206.33086pt x 196.45395pt>
+File: svm-2.png Graphic file (type png)
+<use svm-2.png>
+Package pdftex.def Info: svm-2.png  used on input line 240.
+(pdftex.def)             Requested size: 209.18274pt x 199.16928pt.
+ [20
 
+ <./svm-2.png>]
+<svm-paper.png, id=1011, 1201.48875pt x 966.61125pt>
+File: svm-paper.png Graphic file (type png)
+<use svm-paper.png>
+Package pdftex.def Info: svm-paper.png  used on input line 254.
+(pdftex.def)             Requested size: 247.55345pt x 199.16928pt.
+ [21
 
-[25
+ <./svm-paper.png>]
+<svm-example.png, id=1057, 685.56125pt x 925.4575pt>
+File: svm-example.png Graphic file (type png)
+<use svm-example.png>
+Package pdftex.def Info: svm-example.png  used on input line 262.
+(pdftex.def)             Requested size: 147.53925pt x 199.16928pt.
+ [22
 
-]
-<ska.jpg, id=1027, 2788.4175pt x 1254.6875pt>
-File: ska.jpg Graphic file (type jpg)
-<use ska.jpg>
-Package pdftex.def Info: ska.jpg  used on input line 133.
-(pdftex.def)             Requested size: 316.12993pt x 142.26378pt.
+ <./svm-example.png>]
+<DT-works.png, id=1101, 557.08125pt x 330.48468pt>
+File: DT-works.png Graphic file (type png)
+<use DT-works.png>
+Package pdftex.def Info: DT-works.png  used on input line 267.
+(pdftex.def)             Requested size: 287.77983pt x 170.71652pt.
 
-Overfull \hbox (8.84006pt too wide) in paragraph at lines 133--133
+Overfull \hbox (8.9427pt too wide) in paragraph at lines 267--267
  [][] 
  []
 
+[23
 
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+ <./DT-works.png>]
+<DT-paper.png, id=1147, 1415.2875pt x 932.48375pt>
+File: DT-paper.png Graphic file (type png)
+<use DT-paper.png>
+Package pdftex.def Info: DT-paper.png  used on input line 275.
+(pdftex.def)             Requested size: 259.10306pt x 170.71652pt.
+ [24
 
+ <./DT-paper.png>]
+<DT-example.png, id=1192, 1430.34375pt x 951.555pt>
+File: DT-example.png Graphic file (type png)
+<use DT-example.png>
+Package pdftex.def Info: DT-example.png  used on input line 282.
+(pdftex.def)             Requested size: 256.59958pt x 170.71652pt.
+ [25
 
-[26
+ <./DT-example.png>]
+<NN-works-3.png, id=1238, 1202.4925pt x 992.70876pt>
+File: NN-works-3.png Graphic file (type png)
+<use NN-works-3.png>
+Package pdftex.def Info: NN-works-3.png  used on input line 290.
+(pdftex.def)             Requested size: 241.24652pt x 199.16928pt.
+ [26
 
- <./ska.jpg>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+ <./NN-works-3.png>]
+<CNN-paper.png, id=1283, 1236.62pt x 967.615pt>
+File: CNN-paper.png Graphic file (type png)
+<use CNN-paper.png>
+Package pdftex.def Info: CNN-paper.png  used on input line 297.
+(pdftex.def)             Requested size: 254.52768pt x 199.16928pt.
+ [27
 
+ <./CNN-paper.png>]
+<DLA-train.png, id=1328, 1469.49pt x 472.76625pt>
+File: DLA-train.png Graphic file (type png)
+<use DLA-train.png>
+Package pdftex.def Info: DLA-train.png  used on input line 306.
+(pdftex.def)             Requested size: 265.304pt x 85.35826pt.
+<1d_DLA.png, id=1329, 1212.53pt x 762.85pt>
+File: 1d_DLA.png Graphic file (type png)
+<use 1d_DLA.png>
+Package pdftex.def Info: 1d_DLA.png  used on input line 306.
+(pdftex.def)             Requested size: 226.1092pt x 142.26378pt.
 
-[27
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
+Overfull \vbox (1.34892pt too high) detected at line 306
+ []
 
 [28
 
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+ <./DLA-train.png> <./1d_DLA.png>]
+File: DLA-train.png Graphic file (type png)
+<use DLA-train.png>
+Package pdftex.def Info: DLA-train.png  used on input line 306.
+(pdftex.def)             Requested size: 265.304pt x 85.35826pt.
+File: 1d_DLA.png Graphic file (type png)
+<use 1d_DLA.png>
+Package pdftex.def Info: 1d_DLA.png  used on input line 306.
+(pdftex.def)             Requested size: 226.1092pt x 142.26378pt.
 
+Overfull \vbox (1.34892pt too high) detected at line 306
+ []
 
 [29
 
 ]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[30
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[31
-
-]
-<external-content.png, id=1240, 1405.25pt x 1053.9375pt>
-File: external-content.png Graphic file (type png)
-<use external-content.png>
-Package pdftex.def Info: external-content.png  used on input line 189.
-(pdftex.def)             Requested size: 245.83282pt x 184.36142pt.
-
-Overfull \vbox (6.65726pt too high) detected at line 189
- []
-
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[32
-
- <./external-content.png>]
-<super.jpg, id=1282, 1027.84pt x 571.13374pt>
+<outlier-1.png, id=1417, 1505.625pt x 999.735pt>
+File: outlier-1.png Graphic file (type png)
+<use outlier-1.png>
+Package pdftex.def Info: outlier-1.png  used on input line 373.
+(pdftex.def)             Requested size: 83.65198pt x 55.54239pt.
+<super.jpg, id=1418, 393.47pt x 309.155pt>
 File: super.jpg Graphic file (type jpg)
 <use super.jpg>
-Package pdftex.def Info: super.jpg  used on input line 197.
-(pdftex.def)             Requested size: 307.28987pt x 170.74884pt.
+Package pdftex.def Info: super.jpg  used on input line 373.
+(pdftex.def)             Requested size: 195.18513pt x 153.35533pt.
+ [30
 
-Overfull \vbox (5.04468pt too high) detected at line 197
- []
+ <./outlier-1.png (PNG copy)> <./super.jpg>] [31
 
+] [32
 
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[33
-
- <./super.jpg>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[34
+] [33
 
 ]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+<Agg-works.jpeg, id=1593, 194.472pt x 175.0905pt>
+File: Agg-works.jpeg Graphic file (type jpg)
+<use Agg-works.jpeg>
+Package pdftex.def Info: Agg-works.jpeg  used on input line 421.
+(pdftex.def)             Requested size: 189.62575pt x 170.71652pt.
+ [34
 
+ <./Agg-works.jpeg>]
+<Agg-Lk.png, id=1638, 1418.29875pt x 704.6325pt>
+File: Agg-Lk.png Graphic file (type png)
+<use Agg-Lk.png>
+Package pdftex.def Info: Agg-Lk.png  used on input line 425.
+(pdftex.def)             Requested size: 278.83713pt x 138.52635pt.
+ [35
 
-[35
+ <./Agg-Lk.png>]
+<3d-agg-4-cl-link-average.pdf, id=1684, 433.62pt x 289.08pt>
+File: 3d-agg-4-cl-link-average.pdf Graphic file (type pdf)
+<use 3d-agg-4-cl-link-average.pdf>
+Package pdftex.def Info: 3d-agg-4-cl-link-average.pdf  used on input line 431.
+(pdftex.def)             Requested size: 195.18513pt x 130.12448pt.
+<3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf, id=1685, 701.65886pt x 352.8
+0597pt>
+File: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf Graphic file (type pdf)
+<use 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf>
+Package pdftex.def Info: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf  used
+ on input line 431.
+(pdftex.def)             Requested size: 195.18513pt x 98.13898pt.
+ [36
+
+ <./3d-agg-4-cl-link-average.pdf> <./3d-agg-link-average-nCl-4-med-spec-1150-19
+80.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./3d-agg-link-average-nCl-4-med-spec-11
+50-1980.pdf): PDF inclusion: multiple pdfs with page group included in a single
+ page
+>]
+File: 3d-agg-4-cl-link-average.pdf Graphic file (type pdf)
+<use 3d-agg-4-cl-link-average.pdf>
+Package pdftex.def Info: 3d-agg-4-cl-link-average.pdf  used on input line 431.
+(pdftex.def)             Requested size: 195.18513pt x 130.12448pt.
+File: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf Graphic file (type pdf)
+<use 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf>
+Package pdftex.def Info: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf  used
+ on input line 431.
+(pdftex.def)             Requested size: 195.18513pt x 98.13898pt.
+ [37
 
 ]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+<LOF-works.png, id=1870, 462.528pt x 346.896pt>
+File: LOF-works.png Graphic file (type png)
+<use LOF-works.png>
+Package pdftex.def Info: LOF-works.png  used on input line 437.
+(pdftex.def)             Requested size: 227.6217pt x 170.71652pt.
+ [38
 
+ <./LOF-works.png>]
+<PCA-works.png, id=1914, 1204.5pt x 1204.5pt>
+File: PCA-works.png Graphic file (type png)
+<use PCA-works.png>
+Package pdftex.def Info: PCA-works.png  used on input line 442.
+(pdftex.def)             Requested size: 199.15665pt x 199.16928pt.
+ [39
 
-[36
+ <./PCA-works.png>]
+<tSNE.png, id=1958, 1614.03pt x 913.4125pt>
+File: tSNE.png Graphic file (type png)
+<use tSNE.png>
+Package pdftex.def Info: tSNE.png  used on input line 447.
+(pdftex.def)             Requested size: 278.83713pt x 157.80077pt.
+ [40
 
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[37
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[38
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[39
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[40
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
+ <./tSNE.png>]
 [41
 
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+] [42
 
+] [43
 
-[42
+] [44
 
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
+] [45
 
-
-[43
+] [46
 
 ]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[44
+Missing character: There is no â in font cmss10!
+Missing character: There is no € in font cmss10!
+Missing character: There is no “ in font cmss10!
+Missing character: There is no Î in font cmss10!
+Missing character: There is no ± in font cmss10!
+ [47
 
 ]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[45
-
-]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[46
-
-]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[47
-
-]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[48
-
-]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[49
-
-]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[50
-
-]
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-File: bc-trombone.mps Graphic file (type mps)
- [MP to PDF]
-(/usr/share/texlive/texmf-dist/tex/latex/bclogo/bc-trombone.mps)
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 247.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 247.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[51
-
-]
-<unsuper.png, id=1974, 1433.355pt x 646.415pt>
-File: unsuper.png Graphic file (type png)
-<use unsuper.png>
-Package pdftex.def Info: unsuper.png  used on input line 251.
-(pdftex.def)             Requested size: 307.28987pt x 138.58197pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[52
-
- <./unsuper.png>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[53
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[54
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[55
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[56
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[57
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[58
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[59
-
-]
-<svm-2.png, id=2270, 206.33086pt x 196.45395pt>
-File: svm-2.png Graphic file (type png)
-<use svm-2.png>
-Package pdftex.def Info: svm-2.png  used on input line 307.
-(pdftex.def)             Requested size: 179.29858pt x 170.71652pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[60
-
- <./svm-2.png>]
-<svm1-0.png, id=2309, 602.25pt x 466.74374pt>
-File: svm1-0.png Graphic file (type png)
-<use svm1-0.png>
-Package pdftex.def Info: svm1-0.png  used on input line 315.
-(pdftex.def)             Requested size: 220.2743pt x 170.71652pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[61
-
- <./svm1-0.png>]
-<svm-paper.png, id=2348, 1201.48875pt x 966.61125pt>
-File: svm-paper.png Graphic file (type png)
-<use svm-paper.png>
-Package pdftex.def Info: svm-paper.png  used on input line 321.
-(pdftex.def)             Requested size: 176.82388pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[62
-
- <./svm-paper.png>]
-<svm-example.png, id=2385, 685.56125pt x 925.4575pt>
-File: svm-example.png Graphic file (type png)
-<use svm-example.png>
-Package pdftex.def Info: svm-example.png  used on input line 329.
-(pdftex.def)             Requested size: 105.38219pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[63
-
- <./svm-example.png>]
-<DT-works.png, id=2423, 557.08125pt x 330.48468pt>
-File: DT-works.png Graphic file (type png)
-<use DT-works.png>
-Package pdftex.def Info: DT-works.png  used on input line 334.
-(pdftex.def)             Requested size: 239.81227pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[64
-
- <./DT-works.png>]
-<DT-paper.png, id=2462, 1415.2875pt x 932.48375pt>
-File: DT-paper.png Graphic file (type png)
-<use DT-paper.png>
-Package pdftex.def Info: DT-paper.png  used on input line 342.
-(pdftex.def)             Requested size: 215.91202pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[65
-
- <./DT-paper.png>]
-<DT-example.png, id=2499, 1430.34375pt x 951.555pt>
-File: DT-example.png Graphic file (type png)
-<use DT-example.png>
-Package pdftex.def Info: DT-example.png  used on input line 349.
-(pdftex.def)             Requested size: 213.84389pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[66
-
- <./DT-example.png>]
-<NN-works-3.png, id=2537, 1202.4925pt x 992.70876pt>
-File: NN-works-3.png Graphic file (type png)
-<use NN-works-3.png>
-Package pdftex.def Info: NN-works-3.png  used on input line 357.
-(pdftex.def)             Requested size: 172.31108pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[67
-
- <./NN-works-3.png>]
-<CNN-paper.png, id=2576, 1236.62pt x 967.615pt>
-File: CNN-paper.png Graphic file (type png)
-<use CNN-paper.png>
-Package pdftex.def Info: CNN-paper.png  used on input line 364.
-(pdftex.def)             Requested size: 181.80548pt x 142.26378pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[68
-
- <./CNN-paper.png>]
-<DLA-train.png, id=2614, 1574.88374pt x 641.39626pt>
-File: DLA-train.png Graphic file (type png)
-<use DLA-train.png>
-Package pdftex.def Info: DLA-train.png  used on input line 371.
-(pdftex.def)             Requested size: 307.28987pt x 125.14516pt.
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[69
-
- <./DLA-train.png>]
-<1d_DLA.png, id=2652, 1287.81125pt x 796.9775pt>
-File: 1d_DLA.png Graphic file (type png)
-<use 1d_DLA.png>
-Package pdftex.def Info: 1d_DLA.png  used on input line 378.
-(pdftex.def)             Requested size: 307.28987pt x 190.17186pt.
-
-Overfull \vbox (12.4677pt too high) detected at line 378
- []
-
-
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[70
-
- <./1d_DLA.png>]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[71
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[72
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[73
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[74
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[75
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[76
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[77
-
-]
-Overfull \vbox (1.1335pt too high) has occurred while \output is active []
-
-
-[78
-
-]
+<thanku-2.jpg, id=2304, 1027.84pt x 770.88pt>
+File: thanku-2.jpg Graphic file (type jpg)
+<use thanku-2.jpg>
+Package pdftex.def Info: thanku-2.jpg  used on input line 499.
+(pdftex.def)             Requested size: 223.07054pt x 167.3004pt.
+ [48
+
+ <./thanku-2.jpg>]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -2112,45 +1739,41 @@ Overfull \vbox (1.1335pt too high) has occurred while \output is active []
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 406.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 406.
- (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 406.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 406.
-
-
-Package rerunfilecheck Warning: File `presentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `presentation.out':
-(rerunfilecheck)             Before: 99357B0CAFAE14B11597CAA35FA50C5B;1197
-(rerunfilecheck)             After:  F493991E98999390FA81A04FE33FBE67;1166.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 500.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 500.
+ (./presentation.aux
+*************************************************
+* pdfbase warning: "rerun"
+* 
+* Rerun to get internal references right!
+*************************************************
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 500.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 500.
+Package rerunfilecheck Info: File `presentation.out' has not changed.
+(rerunfilecheck)             Checksum: 40551D059AC8EAA0216B108E87C83ADD;1016.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 184 ({)
+### simple group (level 1) entered at line 454 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32211 strings out of 492982
- 652937 string characters out of 6134896
- 736624 words of memory out of 5000000
- 34997 multiletter control sequences out of 15000+600000
- 545982 words of font info for 78 fonts, out of 8000000 for 9000
+ 31682 strings out of 492982
+ 642050 string characters out of 6134896
+ 712079 words of memory out of 5000000
+ 34568 multiletter control sequences out of 15000+600000
+ 539561 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,19n,82p,10470b,1549s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,15n,82p,10470b,813s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on presentation.pdf (78 pages, 7463652 bytes).
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on presentation.pdf (48 pages, 14375463 bytes).
 PDF statistics:
- 3038 PDF objects out of 3580 (max. 8388607)
- 2848 compressed objects within 29 object streams
- 176 named destinations out of 1000 (max. 500000)
- 422 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2396 PDF objects out of 2487 (max. 8388607)
+ 2172 compressed objects within 22 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 424 words of extra memory for PDF output out of 10000 (max. 10000000)
 
