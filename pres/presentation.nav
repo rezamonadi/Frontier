@@ -21,77 +21,65 @@
 \headcommand {\sectionentry {3}{Supervised ML}{10}{Supervised ML}{0}}
 \headcommand {\beamer@subsectionpages {10}{9}}
 \headcommand {\beamer@subsectionentry {0}{3}{1}{10}{Overview}}
-\headcommand {\slideentry {3}{1}{1}{10/19}{Overview}{0}}
-\headcommand {\beamer@framepages {10}{19}}
-\headcommand {\beamer@subsectionpages {10}{19}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{20}{Support Machine Vector }}
-\headcommand {\slideentry {3}{2}{1}{20/20}{Support Machine Vector }{0}}
+\headcommand {\slideentry {3}{1}{1}{10/17}{Overview}{0}}
+\headcommand {\beamer@framepages {10}{17}}
+\headcommand {\beamer@subsectionpages {10}{17}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{18}{Support Vector Machine }}
+\headcommand {\slideentry {3}{2}{1}{18/19}{Support Vector Machine }{0}}
+\headcommand {\beamer@framepages {18}{19}}
+\headcommand {\slideentry {3}{2}{2}{20/20}{Support Vector Machine }{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {3}{2}{2}{21/21}{Support Machine Vector }{0}}
-\headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {3}{2}{3}{22/22}{Support Machine Vector }{0}}
-\headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@subsectionpages {20}{22}}
-\headcommand {\beamer@subsectionentry {0}{3}{3}{23}{Decision Tree }}
-\headcommand {\slideentry {3}{3}{1}{23/23}{Decision Tree }{0}}
-\headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {3}{3}{2}{24/24}{Decision Tree }{0}}
+\headcommand {\slideentry {3}{2}{3}{21/23}{Support Vector Machine }{0}}
+\headcommand {\beamer@framepages {21}{23}}
+\headcommand {\beamer@subsectionpages {18}{23}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{24}{Neural Network}}
+\headcommand {\slideentry {3}{3}{1}{24/24}{Neural Network}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {3}{3}{3}{25/25}{Decision Tree }{0}}
+\headcommand {\slideentry {3}{3}{2}{25/25}{Neural Network}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\beamer@subsectionpages {23}{25}}
-\headcommand {\beamer@subsectionentry {0}{3}{4}{26}{Neural Network}}
-\headcommand {\slideentry {3}{4}{1}{26/26}{Neural Network}{0}}
+\headcommand {\slideentry {3}{3}{3}{26/26}{Neural Network}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\slideentry {3}{4}{2}{27/27}{Neural Network}{0}}
+\headcommand {\slideentry {3}{3}{4}{27/27}{Neural Network}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\slideentry {3}{4}{3}{28/29}{Neural Network}{0}}
-\headcommand {\beamer@framepages {28}{29}}
-\headcommand {\beamer@sectionpages {10}{29}}
-\headcommand {\beamer@subsectionpages {10}{29}}
-\headcommand {\sectionentry {4}{Unsupervised ML}{30}{Unsupervised ML}{0}}
-\headcommand {\beamer@subsectionpages {30}{29}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{30}{Overview}}
-\headcommand {\slideentry {4}{1}{1}{30/30}{Overview}{0}}
-\headcommand {\beamer@framepages {30}{30}}
-\headcommand {\slideentry {4}{1}{2}{31/33}{Overview}{0}}
-\headcommand {\beamer@framepages {31}{33}}
-\headcommand {\beamer@subsectionpages {30}{33}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{34}{Agglomerative clustering}}
-\headcommand {\slideentry {4}{2}{1}{34/34}{Agglomerative clustering}{0}}
-\headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {4}{2}{2}{35/35}{Agglomerative clustering}{0}}
+\headcommand {\beamer@sectionpages {10}{27}}
+\headcommand {\beamer@subsectionpages {24}{27}}
+\headcommand {\sectionentry {4}{Unsupervised ML}{28}{Unsupervised ML}{0}}
+\headcommand {\beamer@subsectionpages {28}{27}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{28}{Overview}}
+\headcommand {\slideentry {4}{1}{1}{28/28}{Overview}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {4}{1}{2}{29/31}{Overview}{0}}
+\headcommand {\beamer@framepages {29}{31}}
+\headcommand {\beamer@subsectionpages {28}{31}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{32}{Agglomerative clustering}}
+\headcommand {\slideentry {4}{2}{1}{32/32}{Agglomerative clustering}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\slideentry {4}{2}{2}{33/34}{Agglomerative clustering}{0}}
+\headcommand {\beamer@framepages {33}{34}}
+\headcommand {\beamer@subsectionpages {32}{34}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{35}{LOF }}
+\headcommand {\slideentry {4}{3}{1}{35/35}{LOF }{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {4}{2}{3}{36/37}{Agglomerative clustering}{0}}
-\headcommand {\beamer@framepages {36}{37}}
-\headcommand {\beamer@subsectionpages {34}{37}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{38}{LOF }}
-\headcommand {\slideentry {4}{3}{1}{38/38}{LOF }{0}}
-\headcommand {\beamer@framepages {38}{38}}
-\headcommand {\beamer@subsectionpages {38}{38}}
-\headcommand {\beamer@subsectionentry {0}{4}{4}{39}{PCA}}
-\headcommand {\slideentry {4}{4}{1}{39/39}{PCA}{0}}
-\headcommand {\beamer@framepages {39}{39}}
-\headcommand {\beamer@subsectionpages {39}{39}}
-\headcommand {\beamer@subsectionentry {0}{4}{5}{40}{tSNE}}
-\headcommand {\slideentry {4}{5}{1}{40/40}{tSNE}{0}}
-\headcommand {\beamer@framepages {40}{40}}
-\headcommand {\beamer@sectionpages {30}{40}}
-\headcommand {\beamer@subsectionpages {40}{40}}
-\headcommand {\sectionentry {5}{ML limitations }{41}{ML limitations }{0}}
-\headcommand {\slideentry {5}{0}{1}{41/46}{}{0}}
-\headcommand {\beamer@framepages {41}{46}}
-\headcommand {\beamer@sectionpages {41}{46}}
-\headcommand {\beamer@subsectionpages {41}{46}}
-\headcommand {\sectionentry {6}{References}{47}{References}{0}}
-\headcommand {\slideentry {6}{0}{1}{47/47}{}{0}}
-\headcommand {\beamer@framepages {47}{47}}
-\headcommand {\beamer@sectionpages {47}{47}}
-\headcommand {\beamer@subsectionpages {47}{47}}
-\headcommand {\slideentry {7}{0}{1}{48/48}{}{0}}
-\headcommand {\beamer@framepages {48}{48}}
-\headcommand {\beamer@partpages {1}{48}}
-\headcommand {\beamer@subsectionpages {48}{48}}
-\headcommand {\beamer@sectionpages {48}{48}}
-\headcommand {\beamer@documentpages {48}}
-\headcommand {\gdef \inserttotalframenumber {25}}
+\headcommand {\beamer@subsectionpages {35}{35}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{36}{PCA}}
+\headcommand {\slideentry {4}{4}{1}{36/36}{PCA}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@sectionpages {28}{36}}
+\headcommand {\beamer@subsectionpages {36}{36}}
+\headcommand {\sectionentry {5}{ML limitations }{37}{ML limitations }{0}}
+\headcommand {\slideentry {5}{0}{1}{37/43}{}{0}}
+\headcommand {\beamer@framepages {37}{43}}
+\headcommand {\beamer@sectionpages {37}{43}}
+\headcommand {\beamer@subsectionpages {37}{43}}
+\headcommand {\sectionentry {6}{References}{44}{References}{0}}
+\headcommand {\slideentry {6}{0}{1}{44/44}{}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@sectionpages {44}{44}}
+\headcommand {\beamer@subsectionpages {44}{44}}
+\headcommand {\slideentry {7}{0}{1}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\beamer@partpages {1}{45}}
+\headcommand {\beamer@subsectionpages {45}{45}}
+\headcommand {\beamer@sectionpages {45}{45}}
+\headcommand {\beamer@documentpages {45}}
+\headcommand {\gdef \inserttotalframenumber {21}}

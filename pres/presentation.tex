@@ -5,6 +5,7 @@
 \usepackage[tikz]{bclogo}
 \usepackage{mathtools}
 \usepackage{media9}
+\setbeamercolor{block title}{bg=red!30,fg=black}
 \presetkeys{bclogo}{
 	ombre=true,
 	epBord=3,
@@ -30,7 +31,7 @@
 %	\begin{frame}
 %	\centering
 %	\includegraphics[width=\linewidth]{ml.jpg}
-%	\tiny{credit: 365datascience.com}
+%	\tiny{Credit: 365datascience.com}
 %	
 %\end{frame}
 
@@ -122,7 +123,7 @@
 %}
 
 
-\frame{\frametitle{Astronomical surveys are \textcolor{red}{Astronomicaly} growing} 
+\frame{\frametitle{Astronomical surveys are \textcolor{red}{exponentially} growing} 
 	
 	{\tiny{
 \begin{table}[htbp]
@@ -135,36 +136,24 @@
 		GALEX (The Galaxy Evolution Explorer) & 30 TB \\ \hline
 		SDSS (The Sloan Digital Sky Survey) & 40 TB \\ \hline
 		SkyMapper Southern Sky Survey & 500 TB \\ \hline
-		PanSTARRS (The Panoramic Survey Telescope and Rapid Response System) & ~ 40 PB expected \\ \hline
-		LSST (The Large Synoptic Survey Telescope) & ~ 200 PB expected \\ \hline
+		PanSTARRS (The Panoramic Survey Telescope and Rapid Response System) & ~ 40 PB  \\ \hline
+		LSST (The Large Synoptic Survey Telescope) & ~ 200 PB  \\ \hline
 		SKA (The Square Kilometer Array) & ~ 4.6 EB expected \\ \hline
 	\end{tabular}
-	\label{}
+	\tiny{Zhang et. al 2015}
 \end{table}}}
 %	\centering
-	\begin{figure}
 \tiny{SKA}
 \includegraphics[height=1.5cm, angle=-5]{ska}
-	\tiny{DESI}
-		\includegraphics[height=1.5cm, angle=5]{DESI_2}
-	\end{figure}
-\begin{figure}
-\end{figure}
-\begin{figure}
-	\tiny{ZFT}
-\includegraphics[width=2cm, angle=5]{ztf_installed}
-\tiny{LSST}
+\tiny{Rubin's Observatory}
 \includegraphics[width=2cm, angle=-5]{lsst}
-\end{figure}
-%\tiny{
-%	\begin{block}
-%		\uncover<1->{Large surveys}
-%		\uncover<2->{$\Rightarrow$}
-%		\uncover<3->{Big Data}
-%		\uncover<4->{$\xRightarrow{ML}$ \\ }
-%		\uncover<5->{\centering Astronomy Knowledge}
-%		
-%\end{block} }
+\large{
+	
+	\begin{block}{
+	Large surveys = Big Data \\
+				Big Data + ML = Astronomical Knowledge}	
+			\end{block}	
+}
 }
 
 
@@ -208,6 +197,7 @@
 	\begin{figure}
 		\includegraphics[width=4cm]{example-supervised.png}
 		\includegraphics[width=4cm]{tvt.png}
+\tiny{		\\ javatpoint.com}
 	\end{figure}
 	
 	
@@ -215,29 +205,31 @@
 		\uncover<1->{\item Training: 
 			\begin{enumerate}
 				\uncover<2->{\item Select a model }
-				\uncover<3->{\item Set up hyper-parameters of model}
-				\uncover<4->{\item Teach the machine by training set}
-				\uncover<6->{\item Validate the hyper-parameters  }
-				\uncover<7->{\item Select the optimum hyper-parameters}
+%				\uncover<3->{\item Set up hyper-parameters of model}
+				\uncover<3->{\item Train the model by the training set}
+				\uncover<4->{\item Validate the model by the validation set  }
+				\uncover<5->{\item Select the optimum model}
 		\end{enumerate} } 
-		\uncover<8->{\item Testing: 
+		\uncover<6->{\item Testing: 
 			\begin{enumerate}
-				\uncover<9->{\item Test learned model by an unseen part of the data-set. }
-				\uncover<10->{\item Select the best model and use it for predictions.}
+				\uncover<7->{\item Test learned model by an unseen part of the data-set. }
+				\uncover<8->{\item Use the  best model for predictions about unseen observations.}
 		\end{enumerate} } 
 	\end{itemize}
 	
 }
 
-\subsection{Support Machine Vector }
+\subsection{Support Vector Machine }
 
 \frame{ 
 	\frametitle{How Support Vector Machine  Works?}
 	\centering
 	%\includemovie{1cm}{1cm}{svm1.gif}
-	\uncover<1->{\includegraphics[height=7cm]{svm-2.png}}
+	\uncover<1->{\includegraphics[width=4cm]{svm-3.png}}
+	\uncover<2->{\includegraphics[width=4cm]{svm-4.png}}
+	\tiny{towardsdatascience.com} }
 %	\uncover<2->{\includegraphics[height=3cm]{svm1-0.png}}
-}
+
 
 %\frame{ 
 %	\frametitle{Hyper-plane in Support Vector Machine}
@@ -256,36 +248,51 @@
 \frame{
 	\frametitle{ Classifying Pre-Main-Sequence Stars using SVM }
 	
-	\centering
+	\centering{
 	%\includemovie{1cm}{1cm}{svm1.gif}
-	\includegraphics[height=7cm]{svm-example}
+	
+	\includegraphics[height=5cm]{svm-example}
+	\tiny{\\Credit: Ksoll, Victor F., et al. 2018}}
+\begin{enumerate}
+	\uncover<1->{\item Select the most certain PMSs as the training set }
+	\uncover<2->{\item Train the SVM classifier }
+	\uncover<3->{\item Use the trained classifier for the entire Tarantula Nebula}
+\end{enumerate}
 } 
-\subsection{Decision Tree } 
-\frame{\frametitle{How Decision Tree works?}
-	\centering
-	%\includemovie{1cm}{1cm}{svm1.gif}
-	\includegraphics[height=6cm]{DT-works}}
+%\subsection{Decision Tree } 
+%\frame{\frametitle{How Decision Tree works?}
+%	\centering
+%	%\includemovie{1cm}{1cm}{svm1.gif}
+%	\includegraphics[height=6cm]{DT-works}
+%\tiny{Credit: displayr.com}}
+%
+%
+%\frame{\frametitle{Using DT for classifying galaxies and stars in SDSS?}
+%	\centering
+%	
+%	\includegraphics[height=6cm]{DT-paper}
+%	
+%}
 
-
-\frame{\frametitle{Using DT for classifying galaxies and stars in SDSS?}
-	\centering
-	
-	\includegraphics[height=6cm]{DT-paper}
-	
-}
-
-\frame{\frametitle{Using DT for classifying galaxies and stars in SDSS?}
-	\centering
-	%\includemovie{1cm}{1cm}{svm1.gif}
-	\includegraphics[height=6cm]{DT-example}
-	
-}
+%\frame{\frametitle{Using DT for classifying galaxies and stars in SDSS?}
+%	\centering
+%	%\includemovie{1cm}{1cm}{svm1.gif}
+%	\includegraphics[height=5cm]{dt-example.png}
+%	{\tiny{\\Credit: Vasconcellos et. al. 2011}}
+%	\begin{enumerate}
+%		\uncover<1->{\item Spectra of 50,000 random objects: training data-set }
+%		\uncover<2->{\item Train different decision tree algorithms and test them }
+%		\uncover<3->{\item  Using the classifier for 69,545,326  photometric objects }
+%	\end{enumerate}
+%	
+%}
 
 \subsection{Neural Network}
 \frame{\frametitle{How Neural Network works?}
 	\centering
 	%\includemovie{1cm}{1cm}{svm1.gif}	
 	\includegraphics[height=7cm]{NN-works-3}
+	\tiny{\\Credit: Dalya 2019}
 	
 }
 
@@ -299,10 +306,19 @@
 
 \frame{\frametitle{Training   DLA/noDLA models: 1D image recognition}
 	\centering
-
-	\uncover<1->{\includegraphics[height=3cm]{DLA-train}}
-	\uncover<2->{\includegraphics[height=5cm]{1d_DLA}}
 	
+    \uncover<1->{\includegraphics[height=5cm]{1d_DLA}}
+	\uncover<1->{\includegraphics[height=3cm]{DLA-train}}
+	\tiny{\\ Credit: Parks et. al.  2017}
+	
+	
+}
+
+\frame{\frametitle{Multitask CNN: Location, Density and Class}
+	\centering
+\includegraphics[height=6cm]{dla-cnn-detection.png}
+\tiny{	 \\ Credit: Parks et. al.  2017}
+
 }
 %\subsection{Gaussian Processes}
 %\frame{\frametitle{How Gaussian Processes works?}
@@ -361,7 +377,7 @@
 %			\uncover<8->{\item TMF: infers  relationships between  features}
 %		\end{itemize} 
 %\end{bclogo}}	
-}
+
 
 \section{Unsupervised ML}
 \subsection{Overview}
@@ -375,10 +391,10 @@
 \frame{\frametitle{Unsupervised Learning and knowledge discovery}
 	\begin{itemize}
 		\uncover<1->{\item Clustering: \\ \textcolor{red}{Distinguishing similar objects and patterns in the data-set}}
-		\uncover<2->{\item Anomaly detection: \\ 
+		\uncover<2->{\item Outlier detection: \\ 
 			\textcolor{red}{Recognizing odd objects which cannot be categorized and do not belong to any group  in the data-set}}
-	\uncover<3->{\item Visualizationand dimentionality reduction: \\
-			\textcolor{red}{Maping high dimensional data set to a  2D or 3D space}}
+	\uncover<3->{\item Visualization and dimentionality reduction: \\
+			\textcolor{red}{Mapping high dimensional data set to a  2D or 3D space}}
 	\end{itemize}
 
 %\uncover<4->{\begin{block}{}
@@ -417,12 +433,13 @@
 \subsection{Agglomerative clustering}
 \frame{\frametitle{How Agglomerative clustering works?}
 	\centering
-	\includegraphics[height=6cm]{Agg-works}
+	\includegraphics[width=\linewidth]{agg-works}
+	\tiny{Credit: blog.minitab.com}
 }
-\frame{\frametitle{Linkage methods in Agglomerative clustering?}
-	\centering
-	\includegraphics[width=\linewidth]{Agg-Lk}
-}
+%\frame{\frametitle{Dendogram reveals internal structure of data?}
+%	\centering
+%	\includegraphics[height=7cm]{Dendogram}
+%}
 \frame{\frametitle{Agglomerative clustering finds weird quasars?}
 	\centering
 
@@ -434,17 +451,19 @@
 \frame{ \frametitle{ Local Outlier Factor finds outliers}
 	\centering
 	\includegraphics[height=6cm]{LOF-works}
+	\tiny{\\Credit: scikit-learn.org}
 }
 \subsection{PCA}
 \frame{\frametitle{Dimensionality Reduction with Principal Component Analysis}
 \centering
-\includegraphics[height=7cm]{PCA-works}
+\includegraphics[width=\linewidth]{PCA-works-2}
+\tiny{\\Credit: medium.com}
 }
-\subsection{tSNE}
-\frame{\frametitle{Visualization  with t-Distributed Stochastic  Neighbor Embedding}
-\centering
-\includegraphics[width=\linewidth]{tSNE.png}
-}
+%\subsection{tSNE}
+%\frame{\frametitle{Visualization  with t-Distributed Stochastic  Neighbor Embedding}
+%\centering
+%\includegraphics[width=\linewidth]{tSNE.png}
+%}
 %\subsection{Neural network}\frame{text}
 %}
 %
@@ -454,13 +473,16 @@
 }{ 
 	\frame{\frametitle{Limitation of ML in astronomy}
 		\begin{itemize}
-			\uncover<1->{\item Lack of Pre-procession and normalization can end up with misleading/wrong results }
-			\uncover<2->{\item ML algorithms are mostly designed for industry not science. }
-			\uncover<3->{\item Training on a biased sample is very dangerous }
-			\uncover<4->{\item ML is not plug and play}
-			\uncover<5->{\item There are a variety of methods for each task}
-			\uncover<6->{\item Some algorithms scarify interpretablity for functionality
-			  }
+			\uncover<1->{\item No pre-processing  = misleading  results }
+			
+			
+			\uncover<2->{\item Training on a biased sample = wrong predictions }
+			\uncover<3->{\item ML is not plug and play, it needs \textbf{expertise}}
+			\uncover<4->{\item There are a variety of methods for each task: pre-knowledge is needed}
+			\uncover<5->{\item Some algorithms scarify interpretation for functionality: black boxes}
+			\uncover<6->{\item ML algorithms are mostly designed for industry (e.g. Google, Walmart, Uber, ...) not for astronomy.}
+			\uncover<7->{\item Collaboration of astronomers with computer scientists needs to be much stronger} 
+				
 		\end{itemize}
 	
 }

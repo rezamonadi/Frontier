@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  13 MAY 2020 02:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.4.22)  14 MAY 2020 02:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1139,20 +1139,20 @@ Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
 (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1220,7 +1220,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box84
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1230,66 +1230,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count348
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+LaTeX Info: Redefining \nameref on input line 27.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 26.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 27.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 26.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 2
-6.
+7.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-26.
+27.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 26.
+ut line 27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1317,17 +1317,17 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./presentation.nav) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 46.
+line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -1342,321 +1342,267 @@ thkerncmss.
 ] [5
 
 ]
-<vvv.png, id=348, 301.125pt x 202.356pt>
+<vvv.png, id=328, 301.125pt x 202.356pt>
 File: vvv.png Graphic file (type png)
 <use vvv.png>
-Package pdftex.def Info: vvv.png  used on input line 62.
+Package pdftex.def Info: vvv.png  used on input line 63.
 (pdftex.def)             Requested size: 127.023pt x 85.35826pt.
  [6
 
  <./vvv.png>]
 File: vvv.png Graphic file (type png)
 <use vvv.png>
-Package pdftex.def Info: vvv.png  used on input line 62.
+Package pdftex.def Info: vvv.png  used on input line 63.
 (pdftex.def)             Requested size: 127.023pt x 85.35826pt.
  [7
 
 ]
 File: vvv.png Graphic file (type png)
 <use vvv.png>
-Package pdftex.def Info: vvv.png  used on input line 62.
+Package pdftex.def Info: vvv.png  used on input line 63.
 (pdftex.def)             Requested size: 127.023pt x 85.35826pt.
  [8
 
 ]
-
-Package hyperref Warning: Ignoring empty anchor on input line 168.
-
-
-Overfull \hbox (1.07645pt too wide) in paragraph at lines 168--168
- [] 
- []
-
-<ska.jpg, id=481, 2788.4175pt x 1254.6875pt>
+<ska.jpg, id=455, 2788.4175pt x 1254.6875pt>
 File: ska.jpg Graphic file (type jpg)
 <use ska.jpg>
-Package pdftex.def Info: ska.jpg  used on input line 168.
+Package pdftex.def Info: ska.jpg  used on input line 157.
 (pdftex.def)             Requested size: 94.83897pt x 42.67912pt.
-<DESI_2.jpg, id=482, 1606.0pt x 1204.5pt>
-File: DESI_2.jpg Graphic file (type jpg)
-<use DESI_2.jpg>
-Package pdftex.def Info: DESI_2.jpg  used on input line 168.
-(pdftex.def)             Requested size: 56.90189pt x 42.67912pt.
-<ztf_installed.jpg, id=483, 41.9204pt x 27.78886pt>
-File: ztf_installed.jpg Graphic file (type jpg)
-<use ztf_installed.jpg>
-Package pdftex.def Info: ztf_installed.jpg  used on input line 168.
-(pdftex.def)             Requested size: 56.9055pt x 37.72447pt.
-<lsst.jpg, id=484, 1284.8pt x 722.7pt>
+<lsst.jpg, id=456, 1284.8pt x 722.7pt>
 File: lsst.jpg Graphic file (type jpg)
 <use lsst.jpg>
-Package pdftex.def Info: lsst.jpg  used on input line 168.
+Package pdftex.def Info: lsst.jpg  used on input line 157.
 (pdftex.def)             Requested size: 56.9055pt x 32.0018pt.
-[9
+ [9
 
- <./ska.jpg> <./DESI_2.jpg> <./ztf_installed.jpg> <./lsst.jpg>]
-<example-supervised.png, id=528, 602.25pt x 301.125pt>
+ <./ska.jpg> <./lsst.jpg>]
+<example-supervised.png, id=498, 602.25pt x 301.125pt>
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
-<tvt.png, id=529, 778.91pt x 185.69376pt>
+<tvt.png, id=499, 778.91pt x 185.69376pt>
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [10
 
  <./example-supervised.png> <./tvt.png (PNG copy)>]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [11
 
 ]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [12
 
 ]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [13
 
 ]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [14
 
 ]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [15
 
 ]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
  [16
 
 ]
 File: example-supervised.png Graphic file (type png)
 <use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
+Package pdftex.def Info: example-supervised.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
 File: tvt.png Graphic file (type png)
 <use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
+Package pdftex.def Info: tvt.png  used on input line 220.
 (pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
 
 [17
 
 ]
-File: example-supervised.png Graphic file (type png)
-<use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
-(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
-File: tvt.png Graphic file (type png)
-<use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
-(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+<svm-3.png, id=833, 301.125pt x 295.1025pt>
+File: svm-3.png Graphic file (type png)
+<use svm-3.png>
+Package pdftex.def Info: svm-3.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 111.53671pt.
+<svm-4.png, id=834, 301.125pt x 297.11pt>
+File: svm-4.png Graphic file (type png)
+<use svm-4.png>
+Package pdftex.def Info: svm-4.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 112.29547pt.
  [18
 
-]
-File: example-supervised.png Graphic file (type png)
-<use example-supervised.png>
-Package pdftex.def Info: example-supervised.png  used on input line 230.
-(pdftex.def)             Requested size: 113.81102pt x 56.90189pt.
-File: tvt.png Graphic file (type png)
-<use tvt.png>
-Package pdftex.def Info: tvt.png  used on input line 230.
-(pdftex.def)             Requested size: 113.81102pt x 27.13033pt.
+ <./svm-3.png (PNG copy)> <./svm-4.png (PNG copy)>]
+File: svm-3.png Graphic file (type png)
+<use svm-3.png>
+Package pdftex.def Info: svm-3.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 111.53671pt.
+File: svm-4.png Graphic file (type png)
+<use svm-4.png>
+Package pdftex.def Info: svm-4.png  used on input line 230.
+(pdftex.def)             Requested size: 113.81102pt x 112.29547pt.
  [19
 
 ]
-<svm-2.png, id=967, 206.33086pt x 196.45395pt>
-File: svm-2.png Graphic file (type png)
-<use svm-2.png>
-Package pdftex.def Info: svm-2.png  used on input line 240.
-(pdftex.def)             Requested size: 209.18274pt x 199.16928pt.
- [20
-
- <./svm-2.png>]
-<svm-paper.png, id=1011, 1201.48875pt x 966.61125pt>
+<svm-paper.png, id=920, 1201.48875pt x 966.61125pt>
 File: svm-paper.png Graphic file (type png)
 <use svm-paper.png>
-Package pdftex.def Info: svm-paper.png  used on input line 254.
+Package pdftex.def Info: svm-paper.png  used on input line 246.
 (pdftex.def)             Requested size: 247.55345pt x 199.16928pt.
- [21
+ [20
 
  <./svm-paper.png>]
-<svm-example.png, id=1057, 685.56125pt x 925.4575pt>
+<svm-example.png, id=963, 685.56125pt x 925.4575pt>
 File: svm-example.png Graphic file (type png)
 <use svm-example.png>
-Package pdftex.def Info: svm-example.png  used on input line 262.
-(pdftex.def)             Requested size: 147.53925pt x 199.16928pt.
- [22
+Package pdftex.def Info: svm-example.png  used on input line 261.
+(pdftex.def)             Requested size: 105.38219pt x 142.26378pt.
+ [21
 
  <./svm-example.png>]
-<DT-works.png, id=1101, 557.08125pt x 330.48468pt>
-File: DT-works.png Graphic file (type png)
-<use DT-works.png>
-Package pdftex.def Info: DT-works.png  used on input line 267.
-(pdftex.def)             Requested size: 287.77983pt x 170.71652pt.
+File: svm-example.png Graphic file (type png)
+<use svm-example.png>
+Package pdftex.def Info: svm-example.png  used on input line 261.
+(pdftex.def)             Requested size: 105.38219pt x 142.26378pt.
+ [22
 
-Overfull \hbox (8.9427pt too wide) in paragraph at lines 267--267
- [][] 
- []
+]
+File: svm-example.png Graphic file (type png)
+<use svm-example.png>
+Package pdftex.def Info: svm-example.png  used on input line 261.
+(pdftex.def)             Requested size: 105.38219pt x 142.26378pt.
+ [23
 
-[23
-
- <./DT-works.png>]
-<DT-paper.png, id=1147, 1415.2875pt x 932.48375pt>
-File: DT-paper.png Graphic file (type png)
-<use DT-paper.png>
-Package pdftex.def Info: DT-paper.png  used on input line 275.
-(pdftex.def)             Requested size: 259.10306pt x 170.71652pt.
- [24
-
- <./DT-paper.png>]
-<DT-example.png, id=1192, 1430.34375pt x 951.555pt>
-File: DT-example.png Graphic file (type png)
-<use DT-example.png>
-Package pdftex.def Info: DT-example.png  used on input line 282.
-(pdftex.def)             Requested size: 256.59958pt x 170.71652pt.
- [25
-
- <./DT-example.png>]
-<NN-works-3.png, id=1238, 1202.4925pt x 992.70876pt>
+]
+<NN-works-3.png, id=1087, 1202.4925pt x 992.70876pt>
 File: NN-works-3.png Graphic file (type png)
 <use NN-works-3.png>
-Package pdftex.def Info: NN-works-3.png  used on input line 290.
+Package pdftex.def Info: NN-works-3.png  used on input line 297.
 (pdftex.def)             Requested size: 241.24652pt x 199.16928pt.
- [26
+ [24
 
  <./NN-works-3.png>]
-<CNN-paper.png, id=1283, 1236.62pt x 967.615pt>
+<CNN-paper.png, id=1131, 1236.62pt x 967.615pt>
 File: CNN-paper.png Graphic file (type png)
 <use CNN-paper.png>
-Package pdftex.def Info: CNN-paper.png  used on input line 297.
+Package pdftex.def Info: CNN-paper.png  used on input line 304.
 (pdftex.def)             Requested size: 254.52768pt x 199.16928pt.
- [27
+ [25
 
  <./CNN-paper.png>]
-<DLA-train.png, id=1328, 1469.49pt x 472.76625pt>
-File: DLA-train.png Graphic file (type png)
-<use DLA-train.png>
-Package pdftex.def Info: DLA-train.png  used on input line 306.
-(pdftex.def)             Requested size: 265.304pt x 85.35826pt.
-<1d_DLA.png, id=1329, 1212.53pt x 762.85pt>
+<1d_DLA.png, id=1175, 1212.53pt x 762.85pt>
 File: 1d_DLA.png Graphic file (type png)
 <use 1d_DLA.png>
-Package pdftex.def Info: 1d_DLA.png  used on input line 306.
+Package pdftex.def Info: 1d_DLA.png  used on input line 315.
 (pdftex.def)             Requested size: 226.1092pt x 142.26378pt.
-
-Overfull \vbox (1.34892pt too high) detected at line 306
- []
-
-[28
-
- <./DLA-train.png> <./1d_DLA.png>]
+<DLA-train.png, id=1176, 1469.49pt x 472.76625pt>
 File: DLA-train.png Graphic file (type png)
 <use DLA-train.png>
-Package pdftex.def Info: DLA-train.png  used on input line 306.
+Package pdftex.def Info: DLA-train.png  used on input line 315.
 (pdftex.def)             Requested size: 265.304pt x 85.35826pt.
-File: 1d_DLA.png Graphic file (type png)
-<use 1d_DLA.png>
-Package pdftex.def Info: 1d_DLA.png  used on input line 306.
-(pdftex.def)             Requested size: 226.1092pt x 142.26378pt.
 
-Overfull \vbox (1.34892pt too high) detected at line 306
+Overfull \vbox (8.34892pt too high) detected at line 315
  []
 
-[29
+[26
 
-]
-<outlier-1.png, id=1417, 1505.625pt x 999.735pt>
+ <./1d_DLA.png> <./DLA-train.png>]
+<dla-cnn-detection.png, id=1219, 541.02126pt x 820.06375pt>
+File: dla-cnn-detection.png Graphic file (type png)
+<use dla-cnn-detection.png>
+Package pdftex.def Info: dla-cnn-detection.png  used on input line 322.
+(pdftex.def)             Requested size: 112.62717pt x 170.71652pt.
+ [27
+
+ <./dla-cnn-detection.png>]
+<outlier-1.png, id=1262, 1505.625pt x 999.735pt>
 File: outlier-1.png Graphic file (type png)
 <use outlier-1.png>
-Package pdftex.def Info: outlier-1.png  used on input line 373.
+Package pdftex.def Info: outlier-1.png  used on input line 389.
 (pdftex.def)             Requested size: 83.65198pt x 55.54239pt.
-<super.jpg, id=1418, 393.47pt x 309.155pt>
+<super.jpg, id=1263, 393.47pt x 309.155pt>
 File: super.jpg Graphic file (type jpg)
 <use super.jpg>
-Package pdftex.def Info: super.jpg  used on input line 373.
+Package pdftex.def Info: super.jpg  used on input line 389.
 (pdftex.def)             Requested size: 195.18513pt x 153.35533pt.
- [30
+ [28
 
- <./outlier-1.png (PNG copy)> <./super.jpg>] [31
+ <./outlier-1.png (PNG copy)> <./super.jpg>] [29
 
-] [32
+] [30
 
-] [33
+] [31
 
 ]
-<Agg-works.jpeg, id=1593, 194.472pt x 175.0905pt>
-File: Agg-works.jpeg Graphic file (type jpg)
-<use Agg-works.jpeg>
-Package pdftex.def Info: Agg-works.jpeg  used on input line 421.
-(pdftex.def)             Requested size: 189.62575pt x 170.71652pt.
- [34
+<agg-works.png, id=1429, 642.4pt x 324.21124pt>
+File: agg-works.png Graphic file (type png)
+<use agg-works.png>
+Package pdftex.def Info: agg-works.png  used on input line 438.
+(pdftex.def)             Requested size: 278.83713pt x 140.72897pt.
+ [32
 
- <./Agg-works.jpeg>]
-<Agg-Lk.png, id=1638, 1418.29875pt x 704.6325pt>
-File: Agg-Lk.png Graphic file (type png)
-<use Agg-Lk.png>
-Package pdftex.def Info: Agg-Lk.png  used on input line 425.
-(pdftex.def)             Requested size: 278.83713pt x 138.52635pt.
- [35
-
- <./Agg-Lk.png>]
-<3d-agg-4-cl-link-average.pdf, id=1684, 433.62pt x 289.08pt>
+ <./agg-works.png (PNG copy)>]
+<3d-agg-4-cl-link-average.pdf, id=1473, 433.62pt x 289.08pt>
 File: 3d-agg-4-cl-link-average.pdf Graphic file (type pdf)
 <use 3d-agg-4-cl-link-average.pdf>
-Package pdftex.def Info: 3d-agg-4-cl-link-average.pdf  used on input line 431.
+Package pdftex.def Info: 3d-agg-4-cl-link-average.pdf  used on input line 448.
 (pdftex.def)             Requested size: 195.18513pt x 130.12448pt.
-<3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf, id=1685, 701.65886pt x 352.8
+<3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf, id=1474, 701.65886pt x 352.8
 0597pt>
 File: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf Graphic file (type pdf)
 <use 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf>
 Package pdftex.def Info: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf  used
- on input line 431.
+ on input line 448.
 (pdftex.def)             Requested size: 195.18513pt x 98.13898pt.
- [36
+ [33
 
  <./3d-agg-4-cl-link-average.pdf> <./3d-agg-link-average-nCl-4-med-spec-1150-19
 80.pdf
@@ -1667,51 +1613,45 @@ pdfTeX warning: /usr/bin/pdflatex (file ./3d-agg-link-average-nCl-4-med-spec-11
 >]
 File: 3d-agg-4-cl-link-average.pdf Graphic file (type pdf)
 <use 3d-agg-4-cl-link-average.pdf>
-Package pdftex.def Info: 3d-agg-4-cl-link-average.pdf  used on input line 431.
+Package pdftex.def Info: 3d-agg-4-cl-link-average.pdf  used on input line 448.
 (pdftex.def)             Requested size: 195.18513pt x 130.12448pt.
 File: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf Graphic file (type pdf)
 <use 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf>
 Package pdftex.def Info: 3d-agg-link-average-nCl-4-med-spec-1150-1980.pdf  used
- on input line 431.
+ on input line 448.
 (pdftex.def)             Requested size: 195.18513pt x 98.13898pt.
- [37
+ [34
 
 ]
-<LOF-works.png, id=1870, 462.528pt x 346.896pt>
+<LOF-works.png, id=1654, 462.528pt x 346.896pt>
 File: LOF-works.png Graphic file (type png)
 <use LOF-works.png>
-Package pdftex.def Info: LOF-works.png  used on input line 437.
+Package pdftex.def Info: LOF-works.png  used on input line 455.
 (pdftex.def)             Requested size: 227.6217pt x 170.71652pt.
- [38
+ [35
 
  <./LOF-works.png>]
-<PCA-works.png, id=1914, 1204.5pt x 1204.5pt>
-File: PCA-works.png Graphic file (type png)
-<use PCA-works.png>
-Package pdftex.def Info: PCA-works.png  used on input line 442.
-(pdftex.def)             Requested size: 199.15665pt x 199.16928pt.
- [39
+<PCA-works-2.png, id=1696, 1027.84pt x 455.7025pt>
+File: PCA-works-2.png Graphic file (type png)
+<use PCA-works-2.png>
+Package pdftex.def Info: PCA-works-2.png  used on input line 461.
+(pdftex.def)             Requested size: 278.83713pt x 123.6254pt.
+ [36
 
- <./PCA-works.png>]
-<tSNE.png, id=1958, 1614.03pt x 913.4125pt>
-File: tSNE.png Graphic file (type png)
-<use tSNE.png>
-Package pdftex.def Info: tSNE.png  used on input line 447.
-(pdftex.def)             Requested size: 278.83713pt x 157.80077pt.
- [40
+ <./PCA-works-2.png (PNG copy)>] [37
 
- <./tSNE.png>]
-[41
+]
+[38
+
+] [39
+
+] [40
+
+] [41
 
 ] [42
 
 ] [43
-
-] [44
-
-] [45
-
-] [46
 
 ]
 Missing character: There is no â in font cmss10!
@@ -1719,15 +1659,15 @@ Missing character: There is no € in font cmss10!
 Missing character: There is no “ in font cmss10!
 Missing character: There is no Î in font cmss10!
 Missing character: There is no ± in font cmss10!
- [47
+ [44
 
 ]
-<thanku-2.jpg, id=2304, 1027.84pt x 770.88pt>
+<thanku-2.jpg, id=2069, 1027.84pt x 770.88pt>
 File: thanku-2.jpg Graphic file (type jpg)
 <use thanku-2.jpg>
-Package pdftex.def Info: thanku-2.jpg  used on input line 499.
+Package pdftex.def Info: thanku-2.jpg  used on input line 521.
 (pdftex.def)             Requested size: 223.07054pt x 167.3004pt.
- [48
+ [45
 
  <./thanku-2.jpg>]
 \tf@nav=\write6
@@ -1739,41 +1679,36 @@ Package pdftex.def Info: thanku-2.jpg  used on input line 499.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 500.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 500.
- (./presentation.aux
-*************************************************
-* pdfbase warning: "rerun"
-* 
-* Rerun to get internal references right!
-*************************************************
-)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 500.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 500.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 522.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 522.
+ (./presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 522.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 522.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 40551D059AC8EAA0216B108E87C83ADD;1016.
+(rerunfilecheck)             Checksum: A62F01C45567293202EF5B9E71278CF9;896.
  )
-(\end occurred inside a group at level 1)
+(\end occurred inside a group at level 2)
 
-### simple group (level 1) entered at line 454 ({)
+### simple group (level 2) entered at line 473 ({)
+### simple group (level 1) entered at line 184 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 31682 strings out of 492982
- 642050 string characters out of 6134896
- 712079 words of memory out of 5000000
- 34568 multiletter control sequences out of 15000+600000
- 539561 words of font info for 55 fonts, out of 8000000 for 9000
+ 31651 strings out of 492982
+ 641954 string characters out of 6134896
+ 711058 words of memory out of 5000000
+ 34551 multiletter control sequences out of 15000+600000
+ 539868 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,15n,82p,10470b,813s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,15n,82p,10470b,1055s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on presentation.pdf (48 pages, 14375463 bytes).
+Output written on presentation.pdf (45 pages, 11927901 bytes).
 PDF statistics:
- 2396 PDF objects out of 2487 (max. 8388607)
- 2172 compressed objects within 22 object streams
- 115 named destinations out of 1000 (max. 500000)
- 424 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2155 PDF objects out of 2487 (max. 8388607)
+ 1945 compressed objects within 20 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
 

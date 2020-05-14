@@ -4,14 +4,12 @@
 \beamer@subsectionintoc {2}{2}{Astronomical Surveys}{9}{0}{2}
 \beamer@sectionintoc {3}{Supervised ML}{10}{0}{3}
 \beamer@subsectionintoc {3}{1}{Overview}{10}{0}{3}
-\beamer@subsectionintoc {3}{2}{Support Machine Vector }{20}{0}{3}
-\beamer@subsectionintoc {3}{3}{Decision Tree }{23}{0}{3}
-\beamer@subsectionintoc {3}{4}{Neural Network}{26}{0}{3}
-\beamer@sectionintoc {4}{Unsupervised ML}{30}{0}{4}
-\beamer@subsectionintoc {4}{1}{Overview}{30}{0}{4}
-\beamer@subsectionintoc {4}{2}{Agglomerative clustering}{34}{0}{4}
-\beamer@subsectionintoc {4}{3}{LOF }{38}{0}{4}
-\beamer@subsectionintoc {4}{4}{PCA}{39}{0}{4}
-\beamer@subsectionintoc {4}{5}{tSNE}{40}{0}{4}
-\beamer@sectionintoc {5}{ML limitations }{41}{0}{5}
-\beamer@sectionintoc {6}{References}{47}{0}{6}
+\beamer@subsectionintoc {3}{2}{Support Vector Machine }{18}{0}{3}
+\beamer@subsectionintoc {3}{3}{Neural Network}{24}{0}{3}
+\beamer@sectionintoc {4}{Unsupervised ML}{28}{0}{4}
+\beamer@subsectionintoc {4}{1}{Overview}{28}{0}{4}
+\beamer@subsectionintoc {4}{2}{Agglomerative clustering}{32}{0}{4}
+\beamer@subsectionintoc {4}{3}{LOF }{35}{0}{4}
+\beamer@subsectionintoc {4}{4}{PCA}{36}{0}{4}
+\beamer@sectionintoc {5}{ML limitations }{37}{0}{5}
+\beamer@sectionintoc {6}{References}{44}{0}{6}
